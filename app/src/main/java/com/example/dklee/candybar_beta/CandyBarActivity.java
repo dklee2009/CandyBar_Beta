@@ -22,6 +22,7 @@ public class CandyBarActivity extends Activity {
         Fragment fr;
         Button btn1 , btn2;
 
+        //버튼들
         btn1 = (Button) findViewById(R.id.button1);
         btn2 = (Button) findViewById(R.id.button2);
 
